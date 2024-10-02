@@ -1,0 +1,5 @@
+python-dotenv
+requests
+ibm-watson-machine-learning
+pandas
+beautifulsoup4
